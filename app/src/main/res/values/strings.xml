@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DrawPrimitives</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_draw_rect">DrawRectActivity</string>
+    <string name="title_activity_draw_circle">DrawCircle</string>
+    <string name="title_activity_draw_line">DrawLine</string>
+</resources>
