@@ -9,7 +9,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 
-public class DrawLine extends DrawCanvasLine {
+public class DrawLine extends DrawCanvas {
 
     public DrawLine(Context context) {super(context);  }
 

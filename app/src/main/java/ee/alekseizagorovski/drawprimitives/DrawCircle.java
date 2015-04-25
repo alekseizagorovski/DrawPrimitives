@@ -6,7 +6,7 @@ import android.graphics.Color;
 import android.graphics.Paint;
 
 
-public class DrawCircle extends DrawCanvasCircle {
+public class DrawCircle extends DrawCanvas {
 
     public DrawCircle(Context context) {super(context);  }
 
